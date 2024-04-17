@@ -17,6 +17,10 @@ public class CameraController : MonoBehaviour
 
 	private void LateUpdate()
 	{
+        if (_playerMove == null)
+        {
+            return;
+        }
         _camera.transform.position = _playerMove.transform.position + Vector3.back*10;
 	}
 }
