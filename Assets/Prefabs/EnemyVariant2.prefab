@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2017938871946050927
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 297680524417260973, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 390814e94883f524b902df8f0434b2ec, type: 3}
+    - target: {fileID: 1402810475024419378, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: m_Name
+      value: EnemyVariant2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1747610289758167889, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2627802278778178572, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 13.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2627802278778178572, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 6.29
+      objectReference: {fileID: 0}
+    - target: {fileID: 4830458883357561785, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.7313
+      objectReference: {fileID: 0}
+    - target: {fileID: 4830458883357561785, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.7313
+      objectReference: {fileID: 0}
+    - target: {fileID: 4830458883357561785, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.7313
+      objectReference: {fileID: 0}
+    - target: {fileID: 4830458883357561785, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4830458883357561785, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4830458883357561785, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4830458883357561785, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4830458883357561785, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4830458883357561785, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4830458883357561785, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4830458883357561785, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4830458883357561785, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4830458883357561785, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5432201508514282470, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: <Health>k__BackingField
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5432201508514282470, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: <MaxHealth>k__BackingField
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 5432201508514282470, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
+      propertyPath: <MoveSpeed>k__BackingField
+      value: 20
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 84e97bc4e3ee1b442b703e801e2b1174, type: 3}
